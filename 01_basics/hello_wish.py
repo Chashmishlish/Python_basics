@@ -6,6 +6,7 @@ def ish (n):
 
 ish("Make a wish")
 
-chai_one = "lemon tea"
-chai_two = "ginger tea"
-chai_three = "Masala chai"
+ish_one = "Buy a car"
+ish_two = "Build own house"
+ish_three = "Study abroad"
+
