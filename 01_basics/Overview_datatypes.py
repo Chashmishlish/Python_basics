@@ -34,4 +34,7 @@ myDictonary
 
 myDictonary['three']
 
-
+myTuple = [ 1, 2, 3, 4]
+myTuple
+myTuple[0]
+len(myTuple) #4
