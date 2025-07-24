@@ -23,3 +23,15 @@ username[0] = 'A' #error: TypeError: 'str' object does not support item assignme
 username [-1] #n
 username [1:5] #lish
 
+myList = [123, 'chai' , 3.14]
+myList
+
+len(myList) #3
+myList[-1]
+
+myDictonary = {'One': 'lemon tea', 'two': 'masala chai', 'three': 'ginger tea'}
+myDictonary
+
+myDictonary['three']
+
+
