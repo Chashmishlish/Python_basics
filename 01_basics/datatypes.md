@@ -1,6 +1,6 @@
 .md is a markdown, we can write here notes
 
-Comments in python represent by #
+## Comments in python represent by #
 
 # Object Types / Data Types
 
@@ -15,11 +15,15 @@ Comments in python represent by #
 9. None : None (means null, empty)
 10. Functions, modules, classes
 
+---
+
 a. Fundamental of Brackets
 
 - [] => Brackets
 - () => Paranthesis
 - {} => Braces / curley braces
+
+---
 
 # Advance :
 
